@@ -1,0 +1,9 @@
+{
+  "title": "OGN Devices DataBase",
+  "records": [{
+    "name": "ogn-ddb.fln",
+    "uri": "http://ddb.glidernet.org//download/download-fln.php",
+    "type": "flarmnet",
+    "update": "daily"
+  }]
+}

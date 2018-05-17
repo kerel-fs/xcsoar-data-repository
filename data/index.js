@@ -1,6 +1,7 @@
 exports.sections = [
     require('./maps.json'),
     require('./flarmnet.json'),
+    require('./ogn-ddb.json'),
     require('./waypoints-by-country.json'),
     require('./waypoints-special.json'),
     require('./airspace.json'),
